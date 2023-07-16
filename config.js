@@ -1468,3 +1468,7 @@ if (showWarnings && Object.keys(config).length === 0) {
   console.error('WARNING: No configurations found in configuration directory:' +CONFIG_DIR);
   console.error('WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.');
 }
+"ip":"sruff.aternos.me:20376",
+"port": "20376",
+"name": "afkbot",
+"auto-night skip":"true"
